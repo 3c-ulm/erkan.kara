@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Thomas Riemarski
+N:Riemarski;Thomas;;;
+ORG:RI.BU GmbH;Car Competence Center
+TITLE:Geschäftsführer
+TEL;TYPE=CELL:+491733295536
+EMAIL;TYPE=WORK:t.riemarski@3c-ulm.de
+ADR;TYPE=WORK:;;Max-Eyth-Straße 41/3;Neu-Ulm;;89231;Deutschland
+URL:https://www.3c-ulm.de
+END:VCARD
