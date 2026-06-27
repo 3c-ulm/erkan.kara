@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Thomas Riemarski
-N:Riemarski;Thomas;;;
+FN:Erkan Kara
+N:Kara;Erkan;;;
 ORG:RI.BU GmbH;Car Competence Center
-TITLE:Geschäftsführer
-TEL;TYPE=CELL:+491733295536
-EMAIL;TYPE=WORK:t.riemarski@3c-ulm.de
+TITLE:Betriebsleiter
+TEL;TYPE=CELL:+4917627593793
+EMAIL;TYPE=WORK:e.kara@3c-ulm.de
 ADR;TYPE=WORK:;;Max-Eyth-Straße 41/3;Neu-Ulm;;89231;Deutschland
 URL:https://www.3c-ulm.de
 END:VCARD
